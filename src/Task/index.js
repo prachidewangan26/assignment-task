@@ -33,7 +33,7 @@ const Task  = ()=>{
                     </div>
 
                     <div className={styles.right_arrow}>
-                        <img src = {arrow} alt='loading' />
+                        <img src = {arrow} alt='imageloading' />
                     </div>
                 </div>
             </div>
