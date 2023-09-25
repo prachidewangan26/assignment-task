@@ -1,0 +1,49 @@
+.form{
+    background: linear-gradient(to bottom, #ffffff 0%, #000000 100%);   
+    padding:40px 20px;
+    border-radius: 20px;
+    width:110%;
+    color:black;
+}
+
+.header{
+    font-weight: 500;
+    font-size: 24px;
+}
+
+.sub_header{
+    font-size: 16px;
+    padding-top: 10px;
+}
+
+.one_block{
+    display: flex;
+}
+
+.line{
+    border-bottom: 1px solid black;
+    margin-right:20px;
+    padding-top: 44px;
+    padding-bottom: 20px;
+}
+
+.submit{
+    background-color: #181818;
+    padding: 16px 30px;
+    border-radius: 27px;
+    width:fit-content;
+    color:white
+}
+
+.right_arrow{
+    background-color: #181818;
+    padding: 10px 14px;
+    border-radius: 50%;
+    margin-left: 10px;
+    width:fit-content
+}
+
+.end_section{
+    display: flex;
+    padding-top: 30px;
+}

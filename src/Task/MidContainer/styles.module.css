@@ -1,0 +1,19 @@
+.main{
+    padding-left: 70px;
+    display: flex;
+}
+
+.top_content{
+    font-size: 58px;
+    font-weight: 300;
+}
+
+.block_header{
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.bottom_content{
+    padding-top: 30px;
+    display: flex;
+}

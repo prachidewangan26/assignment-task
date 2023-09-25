@@ -1,0 +1,49 @@
+.main{
+    background-color: black;
+    height:100vh;
+    width:93.1vw;
+    padding: 20px 50px;
+    color:#F5F5F5;
+}
+
+.mid_header{
+    color:#999999;
+    display: flex;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0px 20px
+}
+
+.end_header{
+    display: flex;
+    align-items: center;
+   
+}
+
+.contact_me{
+    background-color: #181818;
+    padding: 16px 30px;
+    border-radius: 26px;
+}
+
+.right_arrow{
+    background-color: #181818;
+    padding: 10px 14px;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.tech{
+    padding: 40px 0px 100px 70px
+}
+
+.last{
+    color:#999999;
+    font-size: 26px;
+    text-align: center;
+    padding-top: 60px;
+}
