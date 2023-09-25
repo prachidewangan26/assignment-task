@@ -9,7 +9,7 @@ const Task  = ()=>{
         <div className={styles.main}>
             <div className={styles.header}>
                 <div>
-                    <img src = {frame} alt='imageloading' />
+                    <img src = {frame} alt='loading' />
                 </div>
 
                 <div className={styles.mid_header}>
